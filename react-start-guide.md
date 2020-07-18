@@ -5,7 +5,6 @@
 2. Open **Command Prompt** or **Power Shell** in Administrator Mode
 3. Install NodeJS: ```choco install nodejs```
 4. Install Yarn: ```choco install yarn```
-5. Setup EOG npm server, follow [this instruction](https://git.eogresources.com/web-technologies/guides/blob/master/package_management/npm/publish-private-package.md)
 
 ## Chocolatey
 **Chocolatey**, similar to **HomeBrew** on Mac, is powerful tool on Windows which not just help you install all things related to react with no hassle, but also help you install all other available software like: ```docker```, ```rabbitmq```, etc or utility like ```notepad++```.
